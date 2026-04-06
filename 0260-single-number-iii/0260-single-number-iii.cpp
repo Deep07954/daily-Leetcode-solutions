@@ -17,13 +17,13 @@ public:
         // return result;
         //TIME COMPELXITY : O(n)
         //space complexity : o(n)
-        int xorall=0;
+        long long xorall=0;
         for(auto x:nums){
             xorall^=x;
         }
-        int b1=0;
-        int b2=0;
-        int rightmost_bit=(xorall&(xorall-1))^xorall;
+      int b1=0;
+    int b2=0;
+        long long rightmost_bit=(xorall&(xorall-1))^xorall;
         for(auto x:nums){
             if(x&rightmost_bit){
                 b1=b1^x;
@@ -32,5 +32,6 @@ public:
             b2=b2^x;
         }
         return {b1,b2};
+        // runtim eerror ayay kyunki int ka range hai -2^31 se lekr 2^31-1 ab agr xor krne pe xor ki value -2^31 aa gyi suppose to jo rightmost_bit ka formula hai jisme humne xor-a kiya hai wo overflow ho jayega xor smallest number hai aur uska minus out of range chla jayeg aye hai edge case iske liye hum long lenge
     }
 };
