@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0260-single-number-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0260-single-number-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Math
 | Problem Name | Difficulty |
