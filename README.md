@@ -184,4 +184,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1114-print-in-order/) | Easy |
+| [1115-print-foobar-alternately](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1115-print-foobar-alternately/) | Medium |
 <!---LeetCode Topics End-->
