@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1310-xor-queries-of-a-subarray](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
