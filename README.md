@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0089-gray-code](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0204-count-primes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [0273-integer-to-english-words](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0273-integer-to-english-words](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0273-integer-to-english-words](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
