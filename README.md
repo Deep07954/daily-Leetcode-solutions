@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0290-word-pattern](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0273-integer-to-english-words](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
+| [0290-word-pattern](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
