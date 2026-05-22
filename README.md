@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 ## Counting
