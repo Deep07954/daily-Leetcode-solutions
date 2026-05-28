@@ -13,7 +13,9 @@ void solve(int i,vector<int>&ans,vector<int>&cookies,int k){
         ans[j]+=cookies[i];
         solve(i+1,ans,cookies,k);
         ans[j]-=cookies[i];
-
+// optimization
+            if(ans[j] == 0)
+                break;
     }
 }
     int distributeCookies(vector<int>& cookies, int k) {
