@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1046-last-stone-weight](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Simulation
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 ## Counting
