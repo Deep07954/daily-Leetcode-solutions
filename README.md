@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Bit Manipulation
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,5 +316,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 <!---LeetCode Topics End-->
