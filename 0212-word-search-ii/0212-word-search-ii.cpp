@@ -57,7 +57,7 @@ class Trie {
 class Solution {
     private:
         vector<string> result;
-        int DIRS[4][2] = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+        // int DIRS[4][2] = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
         
         void dfs(vector<vector<char>>& board, 
                  int row, int col, 
@@ -90,10 +90,22 @@ class Solution {
             // Mark visited
             board[row][col] = '#';
             
-            // Explore 4 directions
-            for(int i = 0; i < 4; i++) {
-                dfs(board, row + DIRS[i][0], col + DIRS[i][1], node, path);
-            }
+            // // Explore 4 directions
+            // for(int i = 0; i < 4; i++) {
+            //     dfs(board, row + DIRS[i][0], col + DIRS[i][1], node, path);
+            // }
+            //without using direc vector
+            // UP
+dfs(board, row - 1, col, node, path);
+
+// DOWN
+dfs(board, row + 1, col, node, path);
+
+// LEFT
+dfs(board, row, col - 1, node, path);
+
+// RIGHT
+dfs(board, row, col + 1, node, path);
             
             // Backtrack
             board[row][col] = c;
