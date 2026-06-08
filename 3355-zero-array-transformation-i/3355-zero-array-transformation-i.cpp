@@ -9,18 +9,20 @@ public:
             int l = q[0];
             int r = q[1];
 
-            diff[l] += 1;
-            if (r + 1 < n)
+          diff[l] += 1;
+            
                 diff[r + 1] -= 1;
         }
 
-        int cover = 0;
+        vector<int>prefix(n,0);
+        prefix[0]=diff[0];
 
-        for (int i = 0; i < n; i++) {
-            cover += diff[i];
-
-            if (nums[i] > cover)
-                return false;
+        for (int i = 1; i < diff.size()-1;i++) {
+            prefix[i]=prefix[i-1]+diff[i];  
+        }
+       for(int i=0;i<n;i++){
+            if(prefix[i]<nums[i])
+            return false;
         }
 
         return true;  
