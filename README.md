@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3355-zero-array-transformation-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
