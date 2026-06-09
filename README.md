@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0189-rotate-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0089-gray-code](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0089-gray-code/) | Medium |
+| [0189-rotate-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0273-integer-to-english-words](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0412-fizz-buzz](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0189-rotate-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0443-string-compression](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Greedy
