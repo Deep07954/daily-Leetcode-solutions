@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0322-coin-change](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0667-beautiful-arrangement-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0667-beautiful-arrangement-ii/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0322-coin-change](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
@@ -280,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
@@ -342,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Depth-First Search
