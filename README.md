@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0667-beautiful-arrangement-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Tree
@@ -384,4 +387,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
