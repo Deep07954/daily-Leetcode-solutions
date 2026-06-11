@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0412-fizz-buzz](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1900-the-earliest-and-latest-rounds-where-players-compete/) | Hard |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1900-the-earliest-and-latest-rounds-where-players-compete/) | Hard |
 ## Hash Table
