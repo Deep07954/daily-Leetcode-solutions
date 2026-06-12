@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0319-bulb-switcher/) | Medium |
 | [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Tree
