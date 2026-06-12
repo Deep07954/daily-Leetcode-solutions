@@ -406,4 +406,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
