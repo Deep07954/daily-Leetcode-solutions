@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Enumeration
