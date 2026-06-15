@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,4 +474,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
