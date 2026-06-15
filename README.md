@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -466,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,4 +484,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 <!---LeetCode Topics End-->
