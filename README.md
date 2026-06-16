@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
@@ -484,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
