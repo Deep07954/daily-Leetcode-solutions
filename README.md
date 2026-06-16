@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2043-simple-bank-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
