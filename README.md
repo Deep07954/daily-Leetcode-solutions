@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1900-the-earliest-and-latest-rounds-where-players-compete/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
