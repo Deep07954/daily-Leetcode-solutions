@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
