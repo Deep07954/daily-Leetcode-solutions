@@ -14,11 +14,11 @@ public:
 int dfs(TreeNode* root){
     if(root==NULL)
     return 0;
-     int leftsum=dfs(root->left);
-     int rightsum=dfs(root->right);
-     return root->val+leftsum+rightsum;
+    //  int leftsum=dfs(root->left);
+    //  int rightsum=dfs(root->right);
+    //  return root->val+leftsum+rightsum;
      // directly just write 
-     // return root->val+dfs(root-.left)+dfs(root->right);
+     return root->val+dfs(root->left)+dfs(root->right);
 }
     bool checkTree(TreeNode* root) {
     //     if(root==NULL)
