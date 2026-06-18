@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int dp[101];
+    // int dp[101];
     // int solve(vector<int>& nums, int i) {
     //     int n = nums.size();
     //     if (i >= n) {
@@ -19,14 +19,28 @@ public:
         // int result = solve(nums, 0);
         // return result;
         // BOTTOM UP APPRAOCH
-          dp[0]=0; // koi hosue nhi no money
-          dp[1]=nums[0]; // profit when we have i houses dp[1] k amtlb hai ek hosue hai to uska profit nums[0] hoga 
-          for(int i=2;i<=n;i++){
-            int take=nums[i-1]+dp[i-2];
-            int skip=dp[i-1];
-dp[i]=max(take,skip);
-          }
+        //   dp[0]=0; // koi hosue nhi no money
+        //   dp[1]=nums[0]; // profit when we have i houses dp[1] k amtlb hai ek hosue hai to uska profit nums[0] hoga 
+//           for(int i=2;i<=n;i++){
+//             int take=nums[i-1]+dp[i-2];
+//             int skip=dp[i-1];
+// dp[i]=max(take,skip);
+//           }
           
-          return dp[n];
+//           return dp[n];
+
+
+           //space optimized
+           int a=0 ;//dp[i-2]
+           int b=nums[0]; //dp[i-1]
+           int c=0;
+           for(int i=2;i<=n;i++){
+            int take=nums[i-1]+a;
+            int skip=b;
+            c=max(take,skip);
+            a=b;
+            b=c;
+           }
+           return b;
     }
 };
