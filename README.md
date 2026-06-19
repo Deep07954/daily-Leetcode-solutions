@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-design-browser-history](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1310-xor-queries-of-a-subarray](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3355-zero-array-transformation-i/) | Medium |
