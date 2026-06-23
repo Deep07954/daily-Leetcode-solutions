@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Game Theory
@@ -528,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
