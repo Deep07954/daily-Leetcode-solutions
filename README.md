@@ -421,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
