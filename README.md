@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -521,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
