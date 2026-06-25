@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Tree
@@ -539,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
