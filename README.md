@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0070-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0089-gray-code/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0273-integer-to-english-words](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0212-word-search-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0273-integer-to-english-words](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
