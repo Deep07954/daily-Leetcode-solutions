@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0217-contains-duplicate](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0290-word-pattern](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
+| [0409-longest-palindrome](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0273-integer-to-english-words](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
+| [0409-longest-palindrome](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0134-gas-station/) | Medium |
+| [0409-longest-palindrome](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
