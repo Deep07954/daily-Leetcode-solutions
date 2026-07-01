@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3106-lexicographically-smallest-string-after-operations-with-constraint/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3106-lexicographically-smallest-string-after-operations-with-constraint/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
