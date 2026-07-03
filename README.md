@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [1668-maximum-repeating-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1900-the-earliest-and-latest-rounds-where-players-compete/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
+| [1668-maximum-repeating-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3106-lexicographically-smallest-string-after-operations-with-constraint/) | Medium |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
