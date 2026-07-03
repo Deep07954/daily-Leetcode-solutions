@@ -575,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0197-rising-temperature](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
