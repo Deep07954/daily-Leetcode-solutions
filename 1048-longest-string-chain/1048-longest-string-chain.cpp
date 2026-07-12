@@ -1,6 +1,6 @@
 class Solution {
 public:
-long long dp[1001][1001];
+// long long dp[1001][1001];
 int n;
 bool checkP(string &i,string &p){
     int m=i.length();
@@ -24,28 +24,42 @@ bool checkP(string &i,string &p){
     return true;
    
 }
-int solve(vector<string>&w,int i,int p){
-    if(i>=w.size())
-    return 0;
-    if(p!=-1 && dp[i][p]!=-1 ){
-        return dp[i][p];
-    }
-    int take=0;
-    if(p==-1|| checkP(w[i],w[p])){
-        take=1+solve(w,i+1,i);
-    }
-    int skip=solve(w,i+1,p);
-    if(p!=-1)
-    return dp[i][p]=max(take,skip);
+// int solve(vector<string>&w,int i,int p){
+//     if(i>=w.size())
+//     return 0;
+//     if(p!=-1 && dp[i][p]!=-1 ){
+//         return dp[i][p];
+//     }
+//     int take=0;
+//     if(p==-1|| checkP(w[i],w[p])){
+//         take=1+solve(w,i+1,i);
+//     }
+//     int skip=solve(w,i+1,p);
+//     if(p!=-1)
+//     return dp[i][p]=max(take,skip);
 
-return max(take,skip);
-}
+// return max(take,skip);
+// }
     int longestStrChain(vector<string>& words) {
         n=words.size();
-        memset(dp,-1,sizeof(dp));
+        // memset(dp,-1,sizeof(dp));
         sort(words.begin(),words.end(),[](const string &a,const string &b){
             return a.length()<b.length();
         }); //length ke basisi pe sorting 
-        return solve(words,0,-1);
+        // return solve(words,0,-1);
+
+        //bottom approach
+        vector<int>dp(n,1);
+        int maxL=1;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(checkP(words[i],words[j])){
+                    dp[i]=max(dp[i],dp[j]+1);
+                    maxL=max(dp[i],maxL);
+                }
+            }
+        }
+        return maxL;
     }
 };
+// time complexity O(NLOGN+ N^2) Sorting   O(L * Nlog N) l=LONGEST WORD IN WORDS
