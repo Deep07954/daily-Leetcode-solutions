@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1046-last-stone-weight](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1094-car-pooling/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1094-car-pooling/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
+| [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
@@ -314,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -344,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
+| [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
@@ -437,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
