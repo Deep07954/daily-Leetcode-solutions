@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1094-car-pooling](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1094-car-pooling/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
