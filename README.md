@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0038-count-and-say](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
