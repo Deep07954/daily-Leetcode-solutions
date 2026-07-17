@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2043-simple-bank-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2140-solving-questions-with-brainpower](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1900-the-earliest-and-latest-rounds-where-players-compete/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
+| [2140-solving-questions-with-brainpower](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Recursion
