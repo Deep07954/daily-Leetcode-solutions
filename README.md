@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
