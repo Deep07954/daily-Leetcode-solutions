@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -346,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2043-simple-bank-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -421,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1603-design-parking-system/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
