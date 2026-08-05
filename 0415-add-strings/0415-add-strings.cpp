@@ -1,7 +1,7 @@
 class Solution {
 public:
 string ans;
-string solve(string &num1,string &num2,int i,int j,string ans,int carry){
+string solve(string &num1,string &num2,int i,int j,string &ans,int carry){
     if(i<0 && j<0 && carry ==0)
        return "";
        //ek case solve kro
