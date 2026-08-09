@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2749-minimum-operations-to-make-the-integer-zero/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
