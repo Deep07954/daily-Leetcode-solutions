@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-car-pooling](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1094-car-pooling/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
