@@ -690,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
