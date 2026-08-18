@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2932-maximum-strong-pair-xor-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
