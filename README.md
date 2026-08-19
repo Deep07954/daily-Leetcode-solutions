@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1310-xor-queries-of-a-subarray](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -522,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
