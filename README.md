@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0392-is-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0518-coin-change-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0273-integer-to-english-words](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
+| [0392-is-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0415-add-strings/) | Easy |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0189-rotate-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0392-is-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
