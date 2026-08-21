@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1668-maximum-repeating-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3106-lexicographically-smallest-string-after-operations-with-constraint/) | Medium |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3106-lexicographically-smallest-string-after-operations-with-constraint/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
