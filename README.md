@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0044-wildcard-matching](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0044-wildcard-matching](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0060-permutation-sequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0273-integer-to-english-words](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0079-word-search/) | Medium |
@@ -533,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0134-gas-station/) | Medium |
