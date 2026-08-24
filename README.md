@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0044-wildcard-matching](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0060-permutation-sequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
