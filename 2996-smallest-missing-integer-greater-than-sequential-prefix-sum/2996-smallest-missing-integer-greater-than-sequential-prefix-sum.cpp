@@ -1,0 +1,27 @@
+class Solution {
+public:
+    int missingInteger(vector<int>& nums) {
+        int i=0;
+        int j=0;
+        int n=nums.size();
+        int prefix=nums[0];
+        
+        for(int i=1;i<n;i++){
+            if(nums[i]-nums[i-1]==1){
+                prefix+=nums[i];
+            }
+            else {
+                break;
+            }
+
+        }
+        unordered_set<int>st(nums.begin(),nums.end());
+        int ans=prefix;
+        while(st.count(ans)){
+            ans++;
+
+        }
+        return ans;
+       
+    }
+};
