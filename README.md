@@ -432,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
+| [0520-detect-capital](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
 | [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
