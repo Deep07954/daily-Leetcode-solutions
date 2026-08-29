@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -811,4 +813,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 <!---LeetCode Topics End-->
