@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0168-excel-sheet-column-title](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
