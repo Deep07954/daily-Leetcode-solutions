@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3355-zero-array-transformation-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
