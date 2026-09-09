@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2043-simple-bank-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2716-minimize-string-length](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2716-minimize-string-length](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3106-lexicographically-smallest-string-after-operations-with-constraint/) | Medium |
