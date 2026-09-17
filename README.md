@@ -796,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1934-confirmation-rate](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1934-confirmation-rate/) | Medium |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
