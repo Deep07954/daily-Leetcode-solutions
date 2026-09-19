@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0260-single-number-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0283-move-zeroes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
