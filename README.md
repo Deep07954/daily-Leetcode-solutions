@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2543-check-if-point-is-reachable](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [2543-check-if-point-is-reachable](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -878,4 +880,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2543-check-if-point-is-reachable](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2543-check-if-point-is-reachable/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2543-check-if-point-is-reachable](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2543-check-if-point-is-reachable/) | Hard |
 <!---LeetCode Topics End-->
