@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
