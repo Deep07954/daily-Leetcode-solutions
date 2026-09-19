@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2043-simple-bank-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2716-minimize-string-length](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
