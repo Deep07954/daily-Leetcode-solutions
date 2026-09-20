@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2043-simple-bank-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-design-parking-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1603-design-parking-system/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2043-simple-bank-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
@@ -871,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
