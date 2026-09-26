@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0212-word-search-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0091-decode-ways](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -583,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -929,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
