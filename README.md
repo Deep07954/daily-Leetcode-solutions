@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -581,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -926,10 +928,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
