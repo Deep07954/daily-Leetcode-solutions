@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2043-simple-bank-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2716-minimize-string-length](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -601,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
 ## Design
 | Problem Name | Difficulty |
