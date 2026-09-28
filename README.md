@@ -515,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0639-decode-ways-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0639-decode-ways-ii/) | Hard |
 | [0647-palindromic-substrings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
 | [0897-increasing-order-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
@@ -660,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -955,4 +958,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
