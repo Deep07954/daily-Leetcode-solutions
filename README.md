@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Simulation
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1900-the-earliest-and-latest-rounds-where-players-compete/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -964,4 +967,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
