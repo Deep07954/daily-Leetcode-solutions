@@ -24,16 +24,17 @@ public:
         for(int i = 0; i < n; i++) {
 
             if(seq[i] == '(') {
+                  answer[i] = depth % 2;
 
                 depth++;
 
-                answer[i] = depth % 2;
+                
             }
             else {
+depth++;
 
                 answer[i] = depth % 2;
-
-                depth--;
+              
             }
         }
 
