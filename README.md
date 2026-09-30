@@ -524,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -975,6 +977,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
