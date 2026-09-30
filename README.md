@@ -597,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0086-partition-list](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Stack
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0086-partition-list](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0189-rotate-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
