@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [1094-car-pooling](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1094-car-pooling/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1603-design-parking-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1603-design-parking-system/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2043-simple-bank-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
@@ -620,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
