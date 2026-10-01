@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0212-word-search-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0086-partition-list](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0086-partition-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
