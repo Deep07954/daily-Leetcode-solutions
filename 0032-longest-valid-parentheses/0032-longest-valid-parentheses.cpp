@@ -1,21 +1,20 @@
 class Solution {
 public:
     int longestValidParentheses(string s) {
+        int len=INT_MIN;
         int n=s.length();
+      
         stack<int>st;
         st.push(-1);
-        int len=INT_MIN;
         for(int i=0;i<n;i++){
             char ch=s[i];
             if(ch=='('){
                 st.push(i);
-            }
-            else {
+            }else {
                 st.pop();
                 if(st.empty()){
                     st.push(i);
-                }
-                else {
+                }else {
                     len=max(len,i-st.top());
                 }
             }
