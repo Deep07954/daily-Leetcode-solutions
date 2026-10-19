@@ -907,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0620-not-boring-movies](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
