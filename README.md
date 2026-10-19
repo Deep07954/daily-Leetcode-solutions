@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2043-simple-bank-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sliding Window
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
