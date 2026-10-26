@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-design-browser-history](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [1652-defuse-the-bomb](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0212-word-search-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
@@ -766,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -790,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -1034,4 +1038,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+## Strongly Connected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
+## Articulation Point
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 <!---LeetCode Topics End-->
