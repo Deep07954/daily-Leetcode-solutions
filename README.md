@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0667-beautiful-arrangement-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [0724-find-pivot-index](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
+| [0739-daily-temperatures](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -1023,6 +1025,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
