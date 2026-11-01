@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0078-subsets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
