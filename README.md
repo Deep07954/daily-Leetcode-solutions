@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0941-valid-mountain-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2055-plates-between-candles](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2055-plates-between-candles/) | Medium |
