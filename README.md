@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2055-plates-between-candles](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2055-plates-between-candles/) | Medium |
