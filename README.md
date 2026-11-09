@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1094-car-pooling/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0726-number-of-atoms/) | Hard |
 | [0740-delete-and-earn](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -784,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -809,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -869,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -907,6 +912,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
