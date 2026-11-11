@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -750,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3106-lexicographically-smallest-string-after-operations-with-constraint/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
