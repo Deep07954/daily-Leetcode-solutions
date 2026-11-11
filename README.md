@@ -523,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -796,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-univalued-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -824,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-univalued-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Combinatorics
@@ -888,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-univalued-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -1090,6 +1094,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
