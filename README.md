@@ -532,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2043-simple-bank-system](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2716-minimize-string-length](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
@@ -803,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
@@ -831,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -897,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -939,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
