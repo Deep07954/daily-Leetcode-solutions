@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2729-check-if-the-number-is-fascinating](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [2949-count-beautiful-substrings-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2949-count-beautiful-substrings-ii/) | Hard |
 | [3227-vowels-game-in-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1799-maximize-score-after-n-operations](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [2543-check-if-point-is-reachable](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2947-count-beautiful-substrings-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [2949-count-beautiful-substrings-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2949-count-beautiful-substrings-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2055-plates-between-candles](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2055-plates-between-candles/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [2949-count-beautiful-substrings-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2949-count-beautiful-substrings-ii/) | Hard |
 | [3028-ant-on-the-boundary](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3355-zero-array-transformation-i/) | Medium |
@@ -544,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2729-check-if-the-number-is-fascinating](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [2949-count-beautiful-substrings-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2949-count-beautiful-substrings-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3046-split-the-array](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3046-split-the-array/) | Easy |
@@ -612,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-minimize-string-length](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [2949-count-beautiful-substrings-ii](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/2949-count-beautiful-substrings-ii/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3106-lexicographically-smallest-string-after-operations-with-constraint/) | Medium |
 | [3110-score-of-a-string](https://github.com/Deep07954/daily-Leetcode-solutions/tree/main/3110-score-of-a-string/) | Easy |
